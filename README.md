@@ -24,7 +24,6 @@ waiting time--> `time.sleep(60)` (60seconds)
 
 You have to convert your values in seconds.
 
-`
 
 
 
